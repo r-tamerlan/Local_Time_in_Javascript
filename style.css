@@ -1,0 +1,32 @@
+body { background-color: cornflowerblue; 
+       background-image: url("earth.jpg");
+    }
+
+.ustPanel { 
+    background: crimson;
+    font: bold 50px tahoma;
+    line-height: 100px;
+    text-align: center;
+    color: #ffffff;
+    width: 900px;
+    height: 100px;
+    opacity: 0.9;
+          }
+
+.altPanel { 
+        background: #000000;
+        font: bold 70px tahoma;
+        line-height: 400px;
+        text-align: center;
+        color: #ffffff;
+        width: 900px;
+        height: 400px;
+        opacity: 0.8;
+          }
+
+.govde {
+    width: 900px; 
+    height: 500px;
+    border: 0px;
+    margin: 150px auto;
+       }
